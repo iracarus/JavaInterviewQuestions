@@ -2,12 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4a529d45-4246-4698-9faa-6da3f9ebfa66" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/interview/Java08RemoveDuplicateCharacters.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/interview/Java09CountOfEachCharInString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/interview/Java09CountOfEachCharInString2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/interview/Java10FindOccurance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/interview/Java11ConvertToCamelCase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/interview/Java11ConvertToCamelCase2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/interview/Java12FindMissingCharacters.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/interview/Java13FindStringLength.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -21,39 +17,9 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/interview/Java04SwapTwoNumbers.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="624">
-              <caret line="26" selection-start-line="26" selection-end-line="26" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/interview/Java05ReverseNumber.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="480">
-              <caret line="20" selection-start-line="20" selection-end-line="20" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/interview/Java06ExtractandSum.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="504">
-              <caret line="22" selection-start-line="22" selection-end-line="22" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/interview/Java07UniqueHashMapElements.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="179">
+            <state relative-caret-position="432">
               <caret line="18" column="23" selection-start-line="18" selection-start-column="23" selection-end-line="18" selection-end-column="23" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -74,7 +40,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/interview/Java09CountOfEachCharInString.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="92">
+            <state relative-caret-position="216">
               <caret line="9" column="39" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="39" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -86,7 +52,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/interview/Java09CountOfEachCharInString2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="227">
+            <state relative-caret-position="504">
               <caret line="21" column="47" selection-start-line="21" selection-start-column="47" selection-end-line="21" selection-end-column="47" />
             </state>
           </provider>
@@ -104,17 +70,56 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/interview/Java11ConvertToCamelCase.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="268">
+            <state relative-caret-position="528">
               <caret line="22" column="20" selection-start-line="22" selection-start-column="20" selection-end-line="22" selection-end-column="20" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/interview/Java11ConvertToCamelCase2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="264">
-              <caret line="11" column="38" selection-start-line="11" selection-start-column="38" selection-end-line="11" selection-end-column="38" />
+            <state relative-caret-position="98">
+              <caret line="8" column="31" selection-start-line="8" selection-start-column="31" selection-end-line="8" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/interview/Java12FindMissingCharacters.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="103">
+              <caret line="12" column="78" selection-start-line="12" selection-start-column="78" selection-end-line="12" selection-end-column="78" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#527#535#0" expanded="true" />
+                <element signature="e#615#623#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/interview/Java13FindStringLength.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="265">
+              <caret line="30" column="36" selection-start-line="30" selection-start-column="36" selection-end-line="30" selection-end-column="36" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_162.jdk/Contents/Home/src.zip!/java/util/Arrays.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="24">
+              <caret line="3798" column="30" selection-start-line="3798" selection-start-column="30" selection-end-line="3798" selection-end-column="30" />
+              <folding>
+                <element signature="e#177013#177014#0" expanded="true" />
+                <element signature="e#177054#177055#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -148,6 +153,8 @@
         <option value="$PROJECT_DIR$/src/test/java/interview/Java10FindOccurance.java" />
         <option value="$PROJECT_DIR$/src/test/java/interview/Java11ConvertToCamelCase.java" />
         <option value="$PROJECT_DIR$/src/test/java/interview/Java11ConvertToCamelCase2.java" />
+        <option value="$PROJECT_DIR$/src/test/java/interview/Java12FindMissingCharacters.java" />
+        <option value="$PROJECT_DIR$/src/test/java/interview/Java13FindStringLength.java" />
       </list>
     </option>
   </component>
@@ -225,43 +232,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.Java11ConvertToCamelCase2.convertToCamelCase2">
-    <configuration name="Java09CountOfEachCharInString2.countOfEachCharInString2" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="com.java.interview" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="interview.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="interview" />
-      <option name="MAIN_CLASS_NAME" value="interview.Java09CountOfEachCharInString2" />
-      <option name="METHOD_NAME" value="countOfEachCharInString2" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Java09CountOfEachCharInString.countOfEachCharInString" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="com.java.interview" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="interview.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="interview" />
-      <option name="MAIN_CLASS_NAME" value="interview.Java09CountOfEachCharInString" />
-      <option name="METHOD_NAME" value="countOfEachCharInString" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="TestNG.Java13FindStringLength.findStringLength">
     <configuration name="Java10FindOccurance.findOccurance" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="com.java.interview" />
       <extension name="coverage">
@@ -316,13 +287,49 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Java12FindMissingCharacters.findMissingAlphabets" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="com.java.interview" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="interview.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="interview" />
+      <option name="MAIN_CLASS_NAME" value="interview.Java12FindMissingCharacters" />
+      <option name="METHOD_NAME" value="findMissingAlphabets" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Java13FindStringLength.findStringLength" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="com.java.interview" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="interview.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="interview" />
+      <option name="MAIN_CLASS_NAME" value="interview.Java13FindStringLength" />
+      <option name="METHOD_NAME" value="findStringLength" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.Java13FindStringLength.findStringLength" />
+        <item itemvalue="TestNG.Java12FindMissingCharacters.findMissingAlphabets" />
         <item itemvalue="TestNG.Java11ConvertToCamelCase2.convertToCamelCase2" />
         <item itemvalue="TestNG.Java11ConvertToCamelCase.convertToCamelCase" />
         <item itemvalue="TestNG.Java10FindOccurance.findOccurance" />
-        <item itemvalue="TestNG.Java09CountOfEachCharInString2.countOfEachCharInString2" />
-        <item itemvalue="TestNG.Java09CountOfEachCharInString.countOfEachCharInString" />
       </list>
     </recent_temporary>
   </component>
@@ -337,42 +344,42 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Java09CountOfEachCharInString2_countOfEachCharInString2 - 2019.07.14 at 21h 38m 32s.xml">
-      <configuration name="Java09CountOfEachCharInString2.countOfEachCharInString2" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="Java09CountOfEachCharInString2_countOfEachCharInString2 - 2019.07.14 at 21h 39m 48s.xml">
-      <configuration name="Java09CountOfEachCharInString2.countOfEachCharInString2" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="Java09CountOfEachCharInString2_countOfEachCharInString2 - 2019.07.14 at 21h 40m 26s.xml">
-      <configuration name="Java09CountOfEachCharInString2.countOfEachCharInString2" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="Java09CountOfEachCharInString2_countOfEachCharInString2 - 2019.07.14 at 21h 40m 39s.xml">
-      <configuration name="Java09CountOfEachCharInString2.countOfEachCharInString2" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="Java09CountOfEachCharInString2_countOfEachCharInString2 - 2019.07.14 at 21h 41m 04s.xml">
-      <configuration name="Java09CountOfEachCharInString2.countOfEachCharInString2" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="Java09CountOfEachCharInString2_countOfEachCharInString2 - 2019.07.14 at 21h 42m 20s.xml">
-      <configuration name="Java09CountOfEachCharInString2.countOfEachCharInString2" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="Java10FindOccurance_findOccurance - 2019.07.14 at 21h 45m 40s.xml">
-      <configuration name="Java10FindOccurance.findOccurance" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="Java10FindOccurance_findOccurance - 2019.07.14 at 21h 45m 52s.xml">
-      <configuration name="Java10FindOccurance.findOccurance" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="Java11ConvertToCamelCase_convertToCamelCase - 2019.07.14 at 21h 53m 45s.xml">
-      <configuration name="Java11ConvertToCamelCase.convertToCamelCase" configurationId="TestNG" />
-    </history-entry>
     <history-entry file="Java11ConvertToCamelCase_convertToCamelCase - 2019.07.14 at 21h 54m 58s.xml">
       <configuration name="Java11ConvertToCamelCase.convertToCamelCase" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="Java11ConvertToCamelCase2_convertToCamelCase2 - 2019.07.14 at 22h 00m 57s.xml">
+      <configuration name="Java11ConvertToCamelCase2.convertToCamelCase2" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="Java11ConvertToCamelCase2_convertToCamelCase2 - 2019.07.14 at 22h 01m 16s.xml">
+      <configuration name="Java11ConvertToCamelCase2.convertToCamelCase2" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="Java11ConvertToCamelCase2_convertToCamelCase2 - 2019.07.14 at 22h 01m 37s.xml">
+      <configuration name="Java11ConvertToCamelCase2.convertToCamelCase2" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="Java12FindMissingCharacters_findMissingAlphabets - 2019.07.15 at 20h 55m 09s.xml">
+      <configuration name="Java12FindMissingCharacters.findMissingAlphabets" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="Java12FindMissingCharacters_findMissingAlphabets - 2019.07.15 at 20h 55m 56s.xml">
+      <configuration name="Java12FindMissingCharacters.findMissingAlphabets" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="Java13FindStringLength_findStringLength - 2019.07.15 at 21h 00m 36s.xml">
+      <configuration name="Java13FindStringLength.findStringLength" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="Java13FindStringLength_findStringLength - 2019.07.15 at 21h 03m 39s.xml">
+      <configuration name="Java13FindStringLength.findStringLength" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="Java13FindStringLength_findStringLength - 2019.07.15 at 21h 03m 53s.xml">
+      <configuration name="Java13FindStringLength.findStringLength" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="Java13FindStringLength_findStringLength - 2019.07.15 at 21h 11m 19s.xml">
+      <configuration name="Java13FindStringLength.findStringLength" configurationId="TestNG" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="797" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25716332" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.260745" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Learn" order="3" />
@@ -380,7 +387,7 @@
       <window_info id="Favorites" order="5" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.28005865" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3196481" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -446,7 +453,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/interview/Java06ExtractandSum.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="504">
+        <state relative-caret-position="528">
           <caret line="22" selection-start-line="22" selection-end-line="22" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -456,7 +463,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/interview/Java07UniqueHashMapElements.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="179">
+        <state relative-caret-position="432">
           <caret line="18" column="23" selection-start-line="18" selection-start-column="23" selection-end-line="18" selection-end-column="23" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -473,7 +480,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/interview/Java09CountOfEachCharInString.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="92">
+        <state relative-caret-position="216">
           <caret line="9" column="39" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="39" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -483,7 +490,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/interview/Java09CountOfEachCharInString2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="227">
+        <state relative-caret-position="504">
           <caret line="21" column="47" selection-start-line="21" selection-start-column="47" selection-end-line="21" selection-end-column="47" />
         </state>
       </provider>
@@ -497,15 +504,48 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/interview/Java11ConvertToCamelCase.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="268">
+        <state relative-caret-position="528">
           <caret line="22" column="20" selection-start-line="22" selection-start-column="20" selection-end-line="22" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_162.jdk/Contents/Home/src.zip!/java/util/Arrays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24">
+          <caret line="3798" column="30" selection-start-line="3798" selection-start-column="30" selection-end-line="3798" selection-end-column="30" />
+          <folding>
+            <element signature="e#177013#177014#0" expanded="true" />
+            <element signature="e#177054#177055#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/interview/Java11ConvertToCamelCase2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="11" column="38" selection-start-line="11" selection-start-column="38" selection-end-line="11" selection-end-column="38" />
+        <state relative-caret-position="98">
+          <caret line="8" column="31" selection-start-line="8" selection-start-column="31" selection-end-line="8" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/interview/Java12FindMissingCharacters.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="103">
+          <caret line="12" column="78" selection-start-line="12" selection-start-column="78" selection-end-line="12" selection-end-column="78" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#527#535#0" expanded="true" />
+            <element signature="e#615#623#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/interview/Java13FindStringLength.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="265">
+          <caret line="30" column="36" selection-start-line="30" selection-start-column="36" selection-end-line="30" selection-end-column="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
